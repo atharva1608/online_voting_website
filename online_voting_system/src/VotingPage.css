@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+}
+
+.votetext{
+    text-align: center;
+}
+
+.candidate1{
+    display:flex;
+    margin-left: 550px;
+    margin-top: 30px;
+}
+
+.candidate2{
+    display:flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.candidate3{
+    display:flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.candidate4{
+    display:flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.noneoftheabove{
+    display:flex;
+    margin-left: 550px;
+    margin-top: 20px;
+}
+
+.candidatename{
+    margin-left: 50px;
+}
+
+.candidatelogo{
+    margin-left: 75px;
+    width:70px;
+    height:80px;
+}
+
+.candidatelogo1{
+    margin-left: 20px;
+    width:70px;
+    height:80px;
+}
+
+.votebtn{
+    margin-left: 60px;
+    margin-top: 10px;
+    width:90px;
+    height:40px;
+    font-weight: bold;
+    font-size: larger;
+    border-radius: 5px;
+}

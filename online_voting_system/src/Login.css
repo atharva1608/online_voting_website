@@ -1,0 +1,67 @@
+.form{
+    margin: 0;
+    padding: 3px;
+    box-sizing: border-box;
+    opacity: 1;
+    transition: opacity 500ms ease-in;
+    width:370px;
+    height: 500px;
+    border-radius: 10px;
+    margin-left:560px;
+    margin-top: 60px;
+   text-align: center;
+    color:black;
+    position: absolute;
+    background-color:darkgray;
+  }
+ 
+.form-control{
+    margin-top: 20px;
+}
+
+.submitbtn{
+    margin-top: 20px;
+    width:90px;
+    height:30px;
+  }
+
+  .inputtext{
+    width:250px;
+    margin-left: 20px;
+    margin-top:5px;
+    font-size: larger;
+  }  
+
+  .signuptext{
+   
+   padding-right:155px;
+   font-weight: bold;
+  }
+  .signuptext1{
+   
+    padding-right:70px;
+    font-weight: bold;
+   }
+   .signuptext2{
+   
+    padding-right:170px;
+    font-weight: bold;
+   }
+   .signuptext3{
+   
+    padding-right:110px;
+    font-weight: bold;
+   }
+   .signuptext4{
+   
+    padding-right:200px;
+    font-weight: bold;
+   }
+
+  .otp-field{
+    margin:3px;
+    margin-top: 8px;
+    width:30px;
+    height:20px;
+    border-radius: 5px;
+  }   
